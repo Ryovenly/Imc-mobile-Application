@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMCEntrainement</string>
+    <string name="weight_text">Poids (en kg)</string>
+    <string name="weight_edit">Ton poids</string>
+    <string name="height_text">Taille (en cm)</string>
+    <string name="height_edit">Ta taille</string>
+    <string name="imc_button">Calculer votre IMC</string>
+    <string name="result">Résultat :</string>
+    <string name="instruction">Vous devez écrire votre poids et votre taille puis cliquer sur le boutton Calculer votre IMC.</string>
+    <string name="error_value">Vous devez écrire de bons nombres pour votre taille et poids</string>
+    <string name="response_sentence">"Votre IMC est de "</string>
+    <string name="underweight">, vous êtes un squelette</string>
+    <string name="normal_weight">, vous avez un poids parfait..</string>
+    <string name="overweight">, vous êtes en surpoids!</string>
+    <string name="obesity">, vous êtes obèse !!!</string>
+</resources>

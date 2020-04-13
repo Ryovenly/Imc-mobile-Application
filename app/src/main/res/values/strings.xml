@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IMCTraining</string>
+    <string name="author" translatable="false">Steven</string>
+    <string name="weight_text">Weight (on kg)</string>
+    <string name="weight_edit">Your weight</string>
+    <string name="height_text">Height (on cm)</string>
+    <string name="height_edit">Your height</string>
+    <string name="imc_button">Calculate your IMC</string>
+    <string name="result">Result :</string>
+    <string name="instruction">You have to write your weight and your height. Then you have to click on the button Calculate your IMC.</string>
+    <string name="error_value">You have to write good number in height and wight !</string>
+    <string name="response_sentence">Your IMC is</string>
+    <string name="underweight">, you are Underweight !</string>
+    <string name="normal_weight">, you are normal weight</string>
+    <string name="overweight">, you are Overweight !</string>
+    <string name="obesity">, you are Obesity !!!</string>
+</resources>

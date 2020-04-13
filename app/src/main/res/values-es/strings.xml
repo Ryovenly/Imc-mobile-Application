@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMCEntrenamiento</string>
+    <string name="weight_text">Peso (en kg)</string>
+    <string name="weight_edit">Tu peso</string>
+    <string name="height_text">Talla (en cm)</string>
+    <string name="height_edit">Tu talla</string>
+    <string name="imc_button">Calcule su IMC</string>
+    <string name="result">Resultato :</string>
+    <string name="instruction">Debe ingresar su peso y altura y luego hacer clic en el botón de la calculadora de IMC.</string>
+    <string name="error_value">Debes escribir buenos números para tu altura y peso</string>
+    <string name="response_sentence">"Tu IMC es "</string>
+    <string name="overweight">, tienes sobrepeso</string>
+    <string name="underweight">, eres flaco!</string>
+    <string name="normal_weight">, tienes un peso perfecto</string>
+    <string name="obesity">, Eres obeso!!!</string>
+</resources>
